@@ -2,7 +2,7 @@
 The Ruby community's gem host.
 
 ## Purpose
-
+*lalala 
 * Provide a better API for dealing with gems
 * Create more transparent and accessible project pages
 * Enable the community to improve and enhance the site
